@@ -4,15 +4,15 @@
  *
  * @package         GridPane\GridPaneBlockUsernameEnumeration
  * @since           0.1.0
- * @author          Jeff Cleverley
+ * @author          Jeff Cleverley, Jan-Riekus Jansen
  * @license         GNU-2.0+
  *
  * @wordpress-plugin
  * Plugin Name:     GridPane Disable XMLRPC
  * Plugin URI:      https://gitlab.gridpane.net/gp-public/block-username-enumeration
- * Description:     Disable XMLRPC to mitigate DDoS
+ * Description:     Block User Enumeration
  * Version:         0.1.0
- * Author:          Jeff Cleverley
+ * Author:          Jeff Cleverley. Jan-Riekus Jansen
  * Author URI:      https://gitlab.gridpane.net/jeff
  * Author URI:      https://gitlab.gridpane.net/jeff
  * License:         GPL-2.0+
