@@ -11,7 +11,7 @@ function shapeSpace_check_enum($redirect, $request) {
 }
 
 if (! strpos($_SERVER['HTTP_REFERER'],  '://' . $_SERVER['HTTP_HOST'] . '/wp-admin')) {
-	// remove rest endpoints IF the referer string does not contain ://host.site/wp-admin
+	// remove rest endpoints IF the referer string does not contain ://{host.site}/wp-admin
 	add_filter('rest_endpoints', 'disable_rest_endpoints');
 }
 
