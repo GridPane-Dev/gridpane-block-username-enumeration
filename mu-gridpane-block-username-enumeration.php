@@ -13,8 +13,8 @@
  * Description:     Block User Enumeration
  * Version:         0.1.0
  * Author:          Jeff Cleverley. Jan-Riekus Jansen
- * Author URI:      https://gitlab.gridpane.net/jeff
- * Author URI:      https://gitlab.gridpane.net/jeff
+ * Author URI:      https://github.com/GridPane-Dev
+ * Author URI:      https://github.com/GridPane-Dev
  * License:         GPL-2.0+
  * License URI:     http://www.gnu.org/licenses/gpl-2.0.txt
  */
