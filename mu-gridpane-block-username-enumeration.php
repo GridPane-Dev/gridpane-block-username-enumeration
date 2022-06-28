@@ -8,7 +8,7 @@
  * @license         GNU-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:     GridPane Disable XMLRPC
+ * Plugin Name:     GridPane Block Username Enumeration
  * Plugin URI:      https://gitlab.gridpane.net/gp-public/block-username-enumeration
  * Description:     Block User Enumeration
  * Version:         0.1.0
